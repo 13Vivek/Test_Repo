@@ -1,0 +1,7 @@
+# .gitignore
+# java class
+*.java
+# .net file
+*.aspx
+# docs file 
+*.doc
